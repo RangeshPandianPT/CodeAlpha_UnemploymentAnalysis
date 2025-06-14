@@ -60,4 +60,4 @@ This project is for educational and research purposes.
 
 ---
 
-Let me know if you want to include your name, LinkedIn, or customize it for a portfolio!
+
